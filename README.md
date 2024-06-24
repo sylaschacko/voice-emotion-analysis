@@ -13,5 +13,5 @@ This project aims to build three different machine learning models for emotion r
 ## Contact
 If you have any questions or suggestions, please feel free to contact us.
 Sylas Chacko: sychacko@udel.edu
-Ashley Chen: omotta223@gmail.com
+Ashley Chen: ashleychen908@gmail.com
 Omari Motta: omotta223@gmail.com
