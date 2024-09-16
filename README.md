@@ -18,9 +18,10 @@ Emotion recognition from speech is a challenging task that requires sophisticate
 
 ## Dataset
 We utilize the following datasets:
-- **Emo-DB**: 535 audio files capturing seven emotions.
-- **TESS**: Provides additional data on two more emotions, which we are currently incorporating.
-- **SAVEE and RAVDESS**: Further expanding the dataset to provide more training data across diverse emotional expressions.
+- **Emo-DB** [Emo-DB](http://emodb.bilderbar.info/start.html)
+- **TESS** [TESS](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
+- **SAVEE** [SAVEE](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee)
+- **RAVDESS** [RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
 Current features include:
 - **MFCCs (Mel Frequency Cepstral Coefficients)**
