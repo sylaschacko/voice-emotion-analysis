@@ -1,4 +1,4 @@
-# Emo-DB Emotion Recognition Project
+# Audio Data Emotion Recognition Project
 
 ## Overview
 This project aims to build robust machine learning models for emotion recognition using the Berlin Database of Emotional Speech (Emo-DB) and additional datasets to enhance model performance. Our primary goal is to develop a reliable emotion classifier that can accurately detect and classify emotions from speech.
